@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">laba9</string>
+    <string name="Rand">Random</string>
+    <string name="RandNum">Это случайное число между 0 и %1d</string>
+</resources>
